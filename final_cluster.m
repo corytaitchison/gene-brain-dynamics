@@ -1,6 +1,5 @@
 function final_cluster(fdMatrix, fStructInfo, subsetTitles, nanTolerance, regions)
-    %  Usage:
-    %
+    %  Plots a t-SNE clustering of gene expression across the regions
 
     % Load gene data
     [gd, geneInfo, geneStructInfo] = LoadGeneExpressionData();
@@ -19,7 +18,7 @@ function final_cluster(fdMatrix, fStructInfo, subsetTitles, nanTolerance, region
         sortedFMatrix, nans, nanTolerance, geneInfo, structInfo, false);
     clear nans;
 
-    % Load in acronyms as matrix [1,2,4,5,6,7,8,9,10,11,12,13,14]
+    % Load in acronyms as matrix
     titles = {
     "Serotonin (metabolism)", % 1
     "Serotonin (receptor activity)",
@@ -36,10 +35,9 @@ function final_cluster(fdMatrix, fStructInfo, subsetTitles, nanTolerance, region
     "Noradrenaline (metabolism)", % 13
     "Neurotransmitter (neurotransmitter metabolic process)",
     };
-    % subsetTitles = [2, 4, 6, 8, 9, 12, 14];
     [acronymsList, acronymsTitles] = create_acronyms(subsetTitles);
 
-    % For each set of genes in acronyms, calculate PCA and add to matrix region x gene subset
+    % For each set of genes in acronyms, calculate t-SNE and add to matrix region x gene subset
     numSubsets = size(acronymsList, 2);
     subsetMatrix = [];
 
@@ -53,7 +51,6 @@ function final_cluster(fdMatrix, fStructInfo, subsetTitles, nanTolerance, region
         [~, ~, geneMask] = intersect(acronymsList{i}, geneInfo.acronym);
         subG = sortedG(:, geneMask);
         % Calculate zscore and pca excluding NaNs
-        % coeff = pca(zscore_xnan(subG), 'Rows', 'pairwise');
         coeff = tsne(zscore_xnan(subG)', 'Algorithm', 'barneshut', 'Distance', 'euclidean', 'NumDimensions', 2);
         % Plot
         x = coeff(:, 2);
@@ -63,8 +60,8 @@ function final_cluster(fdMatrix, fStructInfo, subsetTitles, nanTolerance, region
 
     hold off;
     legend(acronymsTitles)
-    xlabel("TSNE 1")
-    ylabel("TSNE 2")
-    title("PCA Clustering of Genes Expression for Each Subset")
+    xlabel("t-SNE 1")
+    ylabel("t-SNE 2")
+    title("t-SNE Clustering of Genes Expression for Each Subset")
 
 end

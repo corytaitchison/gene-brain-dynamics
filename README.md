@@ -2,7 +2,9 @@
 
 ## Files
 
-`final.m`: Main file used to correlate the gene data (neuroreceptor subsets) with the HCTSA time series features
+`final.m`: Main file used to correlate the gene data (neuroreceptor subsets) with the HCTSA time series features.
+
+`final_cluster.m`: Plots a t-SNE cluster plot of gene expression for each subset.
 
 ### Analysis Files
 
