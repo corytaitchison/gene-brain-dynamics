@@ -12,6 +12,10 @@
 - `LoadGeneExpressionData.m`: Loads gene data from the file (not included)
 - `remove_nans.m`: Removes nans from rows and columns above the given threshold
 
+### Final Data
+
+Contains the gene ontology reference lists for creating the gene subsets.
+
 ## Example Usage
 
 ```Matlab
