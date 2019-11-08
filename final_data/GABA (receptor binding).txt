@@ -1,0 +1,25 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:2685104	Akap5	A kinase (PRKA) anchor protein 5	12		GABA receptor binding			IBA	PTN000389662 	J:265628 	
+MGI:2685104	Akap5	A kinase (PRKA) anchor protein 5	12		GABA receptor binding			ISO	RGD:620829 	J:155856 	
+MGI:2139354	Arfgef2	ADP-ribosylation factor guanine nucleotide-exchange factor 2 (brefeldin A-inhibited)	2		GABA receptor binding			ISO	RGD:631430 	J:155856 	
+MGI:1861742	Gabarap	gamma-aminobutyric acid receptor associated protein	11		GABA receptor binding			IBA	PTN000861087 	J:265628 	
+MGI:1861742	Gabarap	gamma-aminobutyric acid receptor associated protein	11		GABA receptor binding			ISO	RGD:61911 	J:155856 	
+MGI:1861742	Gabarap	gamma-aminobutyric acid receptor associated protein	11		GABA receptor binding			ISO	O95166 	J:164563 	
+MGI:1914980	Gabarapl1	gamma-aminobutyric acid (GABA) A receptor-associated protein-like 1	6		GABA receptor binding			IBA	PTN000861087 	J:265628 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7		GABA receptor binding			ISO	RGD:61859 	J:155856 	
+MGI:95619	Gabrb1	gamma-aminobutyric acid (GABA) A receptor, subunit beta 1	5		GABA receptor binding			ISO	RGD:2649 	J:155856 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5		GABA receptor binding			ISO	RGD:621732 	J:155856 	
+MGI:1923321	Jakmip1	janus kinase and microtubule interacting protein 1	5		GABA receptor binding			ISO	Q96N16 	J:89173 	
+MGI:3057108	Lhfpl4	lipoma HMGIC fusion partner-like protein 4	6		GABA receptor binding			IDA		J:254795 J:265620 	
+MGI:3057108	Lhfpl4	lipoma HMGIC fusion partner-like protein 4	6		GABA receptor binding			ISO	RGD:727967 	J:155856 	
+MGI:1916127	Maf1	MAF1 homolog, negative regulator of RNA polymerase III	15		GABA receptor binding			ISO	RGD:1359315 	J:155856 	
+MGI:3036262	Plcl1	phospholipase C-like 1	1		GABA receptor binding			ISO	Q62688 	J:116460 	
+MGI:3036262	Plcl1	phospholipase C-like 1	1		GABA receptor binding			TAS		J:92956 	
+MGI:1352756	Plcl2	phospholipase C-like 2	17		GABA receptor binding			ISO	Q9UPR0 	J:116460 	
+MGI:1321159	Ppp2ca	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	11		GABA receptor binding	happens in brain		IDA		J:116460 	
+MGI:1914345	Trak1	trafficking protein, kinesin binding 1	9		GABA receptor binding			IBA	PTN000405680 	J:265628 	
+MGI:1914345	Trak1	trafficking protein, kinesin binding 1	9		GABA receptor binding			IDA		J:105231 	
+MGI:1918077	Trak2	trafficking protein, kinesin binding 2	1		GABA receptor binding			IBA	PTN001039687 	J:265628 	
+MGI:1918077	Trak2	trafficking protein, kinesin binding 2	1		GABA receptor binding			ISO	RGD:620915 	J:155856 	
+MGI:1918077	Trak2	trafficking protein, kinesin binding 2	1		GABA receptor binding			ISO	Q8R2H7 	J:73065 	
+

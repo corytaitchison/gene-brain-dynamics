@@ -1,0 +1,7 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:107619	Hrh1	histamine receptor H1	6		histamine receptor activity			IEA	IPR000921 	J:72247 	
+MGI:108482	Hrh2	histamine receptor H2	13		histamine receptor activity			ISO	RGD:2831 	J:155856 	
+MGI:2139279	Hrh3	histamine receptor H3	2		histamine receptor activity			ISO	RGD:620630 	J:155856 	
+MGI:2429635	Hrh4	histamine receptor H4	18		histamine receptor activity			IDA		J:79370 	
+MGI:2429635	Hrh4	histamine receptor H4	18		histamine receptor activity			ISO	RGD:620631 	J:155856 	
+

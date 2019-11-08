@@ -1,0 +1,41 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1923711	Anxa9	annexin A9	3		acetylcholine receptor activity			ISO	O76027 	J:164563 	
+MGI:88396	Chrm1	cholinergic receptor, muscarinic 1, CNS	19		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:88396	Chrm1	cholinergic receptor, muscarinic 1, CNS	19		G protein-coupled acetylcholine receptor activity			ISO	RGD:2342 	J:155856 	
+MGI:88397	Chrm2	cholinergic receptor, muscarinic 2, cardiac	6		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:88397	Chrm2	cholinergic receptor, muscarinic 2, cardiac	6		G protein-coupled acetylcholine receptor activity			IMP	MGI:2155543 	J:53061 	
+MGI:88397	Chrm2	cholinergic receptor, muscarinic 2, cardiac	6		G protein-coupled acetylcholine receptor activity			ISO	P08172 	J:164563 	
+MGI:88398	Chrm3	cholinergic receptor, muscarinic 3, cardiac	13		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:88398	Chrm3	cholinergic receptor, muscarinic 3, cardiac	13		G protein-coupled acetylcholine receptor activity			ISO	RGD:2343 	J:155856 	
+MGI:88399	Chrm4	cholinergic receptor, muscarinic 4	2		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:88399	Chrm4	cholinergic receptor, muscarinic 4	2		G protein-coupled acetylcholine receptor activity			IDA		J:12853 	
+MGI:109248	Chrm5	cholinergic receptor, muscarinic 5	2		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:109248	Chrm5	cholinergic receptor, muscarinic 5	2		G protein-coupled acetylcholine receptor activity			ISO	RGD:620027 	J:155856 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2	contributes_to	acetylcholine receptor activity			IDA		J:137435 	
+MGI:87886	Chrna2	cholinergic receptor, nicotinic, alpha polypeptide 2 (neuronal)	14	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87886	Chrna2	cholinergic receptor, nicotinic, alpha polypeptide 2 (neuronal)	14		acetylcholine receptor activity			ISO	Q15822 	J:164563 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9		acetylcholine receptor activity			ISO	RGD:2345 	J:155856 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9		acetylcholine receptor activity			ISO	P32297 	J:164563 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2	contributes_to	acetylcholine receptor activity			IDA		J:179572 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		acetylcholine receptor activity			ISO	P43681 	J:164563 	
+MGI:87889	Chrna5	cholinergic receptor, nicotinic, alpha polypeptide 5	9	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87889	Chrna5	cholinergic receptor, nicotinic, alpha polypeptide 5	9		acetylcholine receptor activity			ISO	P30532 	J:164563 	
+MGI:106213	Chrna6	cholinergic receptor, nicotinic, alpha polypeptide 6	8	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7	contributes_to	acetylcholine receptor activity			IBA	PTN001450553 	J:265628 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		acetylcholine receptor activity			ISO	P36544 	J:164563 	
+MGI:87890	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	11	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87890	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	11	contributes_to	acetylcholine receptor activity			ISO	P11230 	J:164563 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		acetylcholine receptor activity			ISO	P17787 	J:164563 	
+MGI:106212	Chrnb3	cholinergic receptor, nicotinic, beta polypeptide 3	8	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87892	Chrnb4	cholinergic receptor, nicotinic, beta polypeptide 4	9	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87892	Chrnb4	cholinergic receptor, nicotinic, beta polypeptide 4	9		acetylcholine receptor activity			ISO	P30926 	J:164563 	
+MGI:87893	Chrnd	cholinergic receptor, nicotinic, delta polypeptide	1	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87894	Chrne	cholinergic receptor, nicotinic, epsilon polypeptide	11	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:87895	Chrng	cholinergic receptor, nicotinic, gamma polypeptide	1	contributes_to	acetylcholine receptor activity			IBA	PTN001825425 	J:265628 	
+MGI:2139279	Hrh3	histamine receptor H3	2		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+MGI:2429635	Hrh4	histamine receptor H4	18		G protein-coupled acetylcholine receptor activity			IBA	PTN001207082 	J:265628 	
+

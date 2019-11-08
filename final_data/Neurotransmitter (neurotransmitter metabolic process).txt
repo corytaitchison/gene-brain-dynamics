@@ -1,0 +1,235 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:2442517	Aasdh	aminoadipate-semialdehyde dehydrogenase	5		beta-alanine metabolic process			IDA		J:219985 	
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		gamma-aminobutyric acid biosynthetic process			ISO	RGD:620948 	J:155856 	
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		gamma-aminobutyric acid catabolic process			IBA	PTN000944876 	J:265628 	
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		gamma-aminobutyric acid metabolic process			IEA	IPR004631 	J:72247 	
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			IDA		J:17788 J:111571 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			ISO	RGD:69313 	J:155856 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			ISO	P22303 	J:164563 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine metabolic process			ISO	RGD:69313 	J:155856 	
+MGI:87876	Ache	acetylcholinesterase	5		choline metabolic process			ISO	RGD:69313 	J:155856 	
+MGI:87876	Ache	acetylcholinesterase	5		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:87883	Acp5	acid phosphatase 5, tartrate resistant	9		negative regulation of nitric oxide biosynthetic process	regulates a function/process that happens in peritoneal macrophage		IMP	MGI:2180086 	J:67213 	
+MGI:87963	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	8		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2069 	J:155856 	
+MGI:2159437	Agtpbp1	ATP/GTP binding protein 1	13		neurotransmitter metabolic process	happens in cerebellum,has the participant Cck|happens in cerebellum,has the participant Sst|happens in telencephalon,has the participant Cck|happens in telencephalon,has the participant Sst		IMP	MGI:1856535 	J:14712 	
+MGI:1329033	Agxt	alanine-glyoxylate aminotransferase	1		glycine biosynthetic process, by transamination of glyoxylate			IBA	PTN000475663 	J:265628 	
+MGI:1329033	Agxt	alanine-glyoxylate aminotransferase	1		glycine biosynthetic process, by transamination of glyoxylate			ISO	RGD:2073 	J:155856 	
+MGI:1329033	Agxt	alanine-glyoxylate aminotransferase	1		glycine biosynthetic process, by transamination of glyoxylate			ISO	P21549 	J:164563 	
+MGI:2146052	Agxt2	alanine-glyoxylate aminotransferase 2	15		glycine biosynthetic process, by transamination of glyoxylate			ISO	Q9BYV1 	J:164563 	
+MGI:2146052	Agxt2	alanine-glyoxylate aminotransferase 2	15		positive regulation of nitric oxide biosynthetic process			IBA	PTN000241043 	J:265628 	
+MGI:2146052	Agxt2	alanine-glyoxylate aminotransferase 2	15		positive regulation of nitric oxide biosynthetic process			ISO	Q9BYV1 	J:164563 	
+MGI:1343098	Aif1	allograft inflammatory factor 1	17		positive regulation of nitric oxide biosynthetic process			ISO	RGD:61924 	J:155856 	
+MGI:87986	Akt1	thymoma viral proto-oncogene 1	12		positive regulation of nitric oxide biosynthetic process			ISO	P31749 	J:164563 	
+MGI:104874	Akt2	thymoma viral proto-oncogene 2	7		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2082 	J:155856 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		gamma-aminobutyric acid catabolic process			IMP	MGI:2180159 	J:71949 J:91856 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		gamma-aminobutyric acid catabolic process			ISO	P51649 	J:164563 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		gamma-aminobutyric acid metabolic process			IMP	MGI:2180159 	J:75773 J:109671 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		gamma-aminobutyric acid metabolic process	happens in brain		IMP	MGI:2180159 	J:110214 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		neurotransmitter catabolic process			IMP	MGI:2180159 	J:91856 	
+MGI:1915077	Aldh6a1	aldehyde dehydrogenase family 6, subfamily A1	12		beta-alanine catabolic process			ISO	RGD:621556 	J:155856 	
+MGI:1861622	Aldh9a1	aldehyde dehydrogenase 9, subfamily A1	1		neurotransmitter biosynthetic process			ISO	P49189 	J:164563 	
+MGI:3646700	Amt	aminomethyltransferase	9		glycine catabolic process			IEA	IPR006223 	J:72247 	
+MGI:3646700	Amt	aminomethyltransferase	9		glycine decarboxylation via glycine cleavage system			IBA	PTN002464725 	J:265628 	
+MGI:3646700	Amt	aminomethyltransferase	9		glycine decarboxylation via glycine cleavage system			ISO	P48728 	J:164563 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		positive regulation of nitric oxide biosynthetic process			ISO	P05067 	J:164563 	
+MGI:88090	Ass1	argininosuccinate synthetase 1	2		positive regulation of nitric oxide biosynthetic process			ISO	P00966 	J:164563 	
+MGI:105368	Atp2b2	ATPase, Ca++ transporting, plasma membrane 2	6		serotonin metabolic process	happens in central nervous system		IMP	MGI:1857092 	J:19947 	
+MGI:88111	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	1		negative regulation of nitric oxide biosynthetic process			ISO	P23634 	J:164563 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		serotonin metabolic process	happens in cerebral cortex|happens in diencephalon|happens in brainstem		IMP	MGI:1856098 	J:16943 	
+MGI:106642	Baat	bile acid-Coenzyme A: amino acid N-acyltransferase	4		glycine metabolic process			ISO	Q14032 	J:164563 	
+MGI:894278	Bche	butyrylcholinesterase	3		choline metabolic process			ISO	RGD:619996 	J:155856 	
+MGI:1916625	Btbd9	BTB (POZ) domain containing 9	17		serotonin metabolic process	happens in corpus striatum		IMP	MGI:4127237 	J:187433 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		negative regulation of nitric oxide biosynthetic process	regulates a function/process that happens in heart		IMP	MGI:2180364 	J:82042 	
+MGI:88329	Cd34	CD34 antigen	1		negative regulation of nitric oxide biosynthetic process			ISO	P28906 	J:164563 	
+MGI:107899	Cd36	CD36 molecule	5		positive regulation of nitric oxide biosynthetic process	is a part of cellular response to amyloid-beta,regulates a function/process that happens in microglial cell,positively regulates neuron death		IGI	P05067 	J:158401 	
+MGI:96617	Cd47	CD47 antigen (Rh-related antigen, integrin-associated signal transducer)	16		regulation of nitric oxide biosynthetic process	happens in macrophage,regulates a function/process that happens in macrophage,happens at the same time as cellular response to lipopolysaccharide		IDA		J:265631 	
+MGI:88392	Chat	choline acetyltransferase	14		acetylcholine biosynthetic process			IBA	PTN000502016 	J:265628 	
+MGI:88392	Chat	choline acetyltransferase	14		acetylcholine biosynthetic process			ISO	RGD:1304627 	J:155856 	
+MGI:88392	Chat	choline acetyltransferase	14		neurotransmitter biosynthetic process			IEA	KW-0530 	J:60000 	
+MGI:1860776	Chdh	choline dehydrogenase	14		glycine betaine biosynthetic process from choline			IEA	IPR011533 	J:72247 	
+MGI:107760	Chka	choline kinase alpha	19		choline metabolic process			ISO	RGD:61944 	J:155856 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		positive regulation of acetylcholine biosynthetic process			IC	GO:0051247 GO:1905920 	J:157839 	
+MGI:107537	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	7		neurotransmitter metabolic process	happens in cerebral cortex|happens in cerebellum		IMP	MGI:1933976 	J:105697 	
+MGI:88423	Clu	clusterin	14		positive regulation of nitric oxide biosynthetic process			ISO	P10909 	J:164563 	
+MGI:1338761	Colq	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	14		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		neurotransmitter catabolic process			IEA	IPR017128 	J:72247 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:891996	Cps1	carbamoyl-phosphate synthetase 1	1		nitric oxide metabolic process			ISO	P31327 	J:164563 	
+MGI:88512	Crp	C-reactive protein, pentraxin-related	1		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2411 	J:155856 	
+MGI:1333815	Cx3cr1	chemokine (C-X3-C motif) receptor 1	9		regulation of nitric oxide biosynthetic process	happens in microglial cell,is a part of cellular response to lipopolysaccharide		IGI	P05067 	J:262355 	
+MGI:88590	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1	17		nitric oxide biosynthetic process			IMP		J:157662 	
+MGI:1929474	Cyp2d22	cytochrome P450, family 2, subfamily d, polypeptide 22	15		serotonin biosynthetic process from tryptophan			ISO	RGD:620640 	J:155856 	
+MGI:2677061	Dagla	diacylglycerol lipase, alpha	19		neurotransmitter biosynthetic process			IBA	PTN001851551 	J:265628 	
+MGI:2677061	Dagla	diacylglycerol lipase, alpha	19		neurotransmitter biosynthetic process	happens in brain|happens in spinal cord|happens in liver		IMP	MGI:4438719 	J:157850 	
+MGI:2677061	Dagla	diacylglycerol lipase, alpha	19		neurotransmitter biosynthetic process			ISO	Q9Y4D2 	J:164563 	
+MGI:2442032	Daglb	diacylglycerol lipase, beta	5		neurotransmitter biosynthetic process			IBA	PTN001851551 	J:265628 	
+MGI:2442032	Daglb	diacylglycerol lipase, beta	5		neurotransmitter biosynthetic process	happens in liver		IMP	MGI:3529581 	J:157850 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		octopamine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		octopamine metabolic process			ISO	RGD:2489 	J:155856 	
+MGI:1916469	Ddah1	dimethylarginine dimethylaminohydrolase 1	3		nitric oxide biosynthetic process			ISO	P56965 	J:81494 	
+MGI:1916469	Ddah1	dimethylarginine dimethylaminohydrolase 1	3		positive regulation of nitric oxide biosynthetic process			IBA	PTN000978164 	J:265628 	
+MGI:1916469	Ddah1	dimethylarginine dimethylaminohydrolase 1	3		positive regulation of nitric oxide biosynthetic process			IMP		J:182373 	
+MGI:1916469	Ddah1	dimethylarginine dimethylaminohydrolase 1	3		positive regulation of nitric oxide biosynthetic process			ISO	RGD:70968 	J:155856 	
+MGI:1859016	Ddah2	dimethylarginine dimethylaminohydrolase 2	17		positive regulation of nitric oxide biosynthetic process			IBA	PTN000978164 	J:265628 	
+MGI:94876	Ddc	dopa decarboxylase	11		serotonin biosynthetic process			ISO	RGD:2494 	J:155856 	
+MGI:1921379	Dmgdh	dimethylglycine dehydrogenase precursor	13		choline catabolic process			ISO	Q9UI17 	J:164563 	
+MGI:109547	Dnm2	dynamin 2	9		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2513 	J:155856 	
+MGI:1928679	Dpys	dihydropyrimidinase	15		beta-alanine metabolic process			ISO	RGD:68376 	J:155856 	
+MGI:1928679	Dpys	dihydropyrimidinase	15		beta-alanine metabolic process			ISS	Q63150 	J:172925 	
+MGI:1861457	Dynll1	dynein light chain LC8-type 1	5		negative regulation of nitric oxide biosynthetic process			ISO	U66461 	J:73065 	
+MGI:2445171	Enpp6	ectonucleotide pyrophosphatase/phosphodiesterase 6	8		choline metabolic process			IBA	PTN000806413 	J:265628 	
+MGI:2445171	Enpp6	ectonucleotide pyrophosphatase/phosphodiesterase 6	8		choline metabolic process			IDA		J:100274 	
+MGI:2445171	Enpp6	ectonucleotide pyrophosphatase/phosphodiesterase 6	8		choline metabolic process			ISO	Q6UWR7 	J:164563 	
+MGI:95408	Epor	erythropoietin receptor	9		negative regulation of nitric oxide biosynthetic process			ISO	RGD:2560 	J:155856 	
+MGI:1352467	Esr1	estrogen receptor 1 (alpha)	10		positive regulation of nitric oxide biosynthetic process			ISO	P03372 	J:164563 	
+MGI:2449712	Fev	FEV transcription factor, ETS family member	1		regulation of serotonin biosynthetic process			NAS		J:237675 	
+MGI:95573	For5	formamidase 5	14		neurotransmitter metabolic process			TAS		J:6248 	
+MGI:95583	Fshr	follicle stimulating hormone receptor	17		regulation of acetylcholine metabolic process	regulates a function/process that happens in central nervous system		IGI	MGI:88392 	J:109411 	
+MGI:95632	Gad1	glutamate decarboxylase 1	2		gamma-aminobutyric acid biosynthetic process			ISO	RGD:2652 	J:155856 	
+MGI:95632	Gad1	glutamate decarboxylase 1	2		neurotransmitter biosynthetic process			IEA	KW-0530 	J:60000 	
+MGI:95634	Gad2	glutamic acid decarboxylase 2	2		neurotransmitter biosynthetic process			IEA	KW-0530 	J:60000 	
+MGI:95654	Gart	phosphoribosylglycinamide formyltransferase	16		glycine metabolic process			ISO	RGD:1308717 	J:155856 	
+MGI:95675	Gch1	GTP cyclohydrolase 1	14		regulation of serotonin biosynthetic process			NAS		J:237675 	
+MGI:1915383	Gcsh	glycine cleavage system protein H (aminomethyl carrier)	8		glycine decarboxylation via glycine cleavage system			ISO	RGD:619946 	J:155856 	
+MGI:1347344	Gla	galactosidase, alpha	X		negative regulation of nitric oxide biosynthetic process			IMP		J:108541 	
+MGI:1341155	Gldc	glycine decarboxylase	19		glycine catabolic process			ISO	P23378 	J:164563 	
+MGI:1341155	Gldc	glycine decarboxylase	19		glycine decarboxylation via glycine cleavage system			IBA	PTN000206531 	J:265628 	
+MGI:1341155	Gldc	glycine decarboxylase	19		glycine decarboxylation via glycine cleavage system			ISO	RGD:1308660 	J:155856 	
+MGI:1341155	Gldc	glycine decarboxylase	19		glycine decarboxylation via glycine cleavage system			ISO	NP_001101053 	J:73065 	
+MGI:1341155	Gldc	glycine decarboxylase	19		glycine metabolic process			IEA	IPR003437 	J:72247 	
+MGI:2147502	Glyat	glycine-N-acyltransferase	19		glycine metabolic process			ISO	Q6IB77 	J:164563 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		serotonin metabolic process			IMP	MGI:1928285 	J:78374 	
+MGI:95915	H2-M3	histocompatibility 2, M region locus 3	17		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in leukocyte		IMP	MGI:3701255 	J:118960 	
+MGI:1306817	H60a	histocompatibility 60a	10		positive regulation of nitric oxide biosynthetic process			IDA		J:82077 	
+MGI:96062	Hdc	histidine decarboxylase	2		histamine biosynthetic process			IMP	MGI:2182618 	J:70702 	
+MGI:96062	Hdc	histidine decarboxylase	2		histamine biosynthetic process			ISO	P19113 	J:164563 	
+MGI:96062	Hdc	histidine decarboxylase	2		histamine metabolic process			ISO	RGD:2790 	J:155856 	
+MGI:2153181	Hnmt	histamine N-methyltransferase	2		histamine catabolic process			ISO	P50135 	J:164563 	
+MGI:107619	Hrh1	histamine receptor H1	6		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2830 	J:155856 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		nitric oxide biosynthetic process			TAS		J:113936 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		positive regulation of nitric oxide biosynthetic process			IDA		J:113936 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		serotonin metabolic process			IMP		J:65662 	
+MGI:96392	Icam1	intercellular adhesion molecule 1	9		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2857 	J:155856 	
+MGI:107656	Ifng	interferon gamma	10		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in peritoneal macrophage		IDA		J:67213 	
+MGI:107656	Ifng	interferon gamma	10		positive regulation of nitric oxide biosynthetic process			ISO	P01579 	J:164563 	
+MGI:96432	Igf1	insulin-like growth factor 1	10		regulation of nitric oxide biosynthetic process			IMP	MGI:2386329 MGI:2389580 	J:186813 	
+MGI:96543	Il1b	interleukin 1 beta	2		positive regulation of nitric oxide biosynthetic process			ISO	P01584 	J:164563 	
+MGI:96556	Il4	interleukin 4	11		negative regulation of nitric oxide biosynthetic process			ISO	RGD:2898 	J:155856 	
+MGI:96559	Il6	interleukin 6	5		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2901 	J:155856 	
+MGI:96537	Il10	interleukin 10	1		negative regulation of nitric oxide biosynthetic process			ISO	RGD:2886 	J:155856 	
+MGI:96575	Insr	insulin receptor	8		positive regulation of nitric oxide biosynthetic process			ISO	P06213 	J:164563 	
+MGI:96611	Itgb2	integrin beta 2	10		positive regulation of nitric oxide biosynthetic process			ISO	RGD:1305581 	J:155856 	
+MGI:96629	Jak2	Janus kinase 2	19		positive regulation of nitric oxide biosynthetic process			ISO	RGD:2939 	J:155856 	
+MGI:96629	Jak2	Janus kinase 2	19		regulation of nitric oxide biosynthetic process			ISO	RGD:2939 	J:155856 	
+MGI:1336214	Khsrp	KH-type splicing regulatory protein	17		negative regulation of nitric oxide biosynthetic process			ISO	Q92945 	J:164563 	
+MGI:1342772	Klf2	Kruppel-like factor 2 (lung)	8		positive regulation of nitric oxide biosynthetic process			ISO	Q9Y5W3 	J:164563 	
+MGI:1342287	Klf4	Kruppel-like factor 4 (gut)	4		positive regulation of nitric oxide biosynthetic process			ISO	O43474 	J:164563 	
+MGI:1196250	Klrk1	killer cell lectin-like receptor subfamily K, member 1	6		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in macrophage		IDA		J:82077 	
+MGI:96915	Maoa	monoamine oxidase A	X		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:96915	Maoa	monoamine oxidase A	X		serotonin metabolic process			ISO	RGD:61898 	J:155856 	
+MGI:96916	Maob	monoamine oxidase B	X		neurotransmitter catabolic process			ISO	RGD:3041 	J:155856 	
+MGI:1346862	Mapk9	mitogen-activated protein kinase 9	11		positive regulation of nitric oxide biosynthetic process			ISO	RGD:628847 	J:155856 	
+MGI:1202395	Mmp8	matrix metallopeptidase 8	9		positive regulation of nitric oxide biosynthetic process	happens in microglial cell,regulates a function/process that happens in microglial cell		IMP		J:265613 	
+MGI:1202395	Mmp8	matrix metallopeptidase 8	9		positive regulation of nitric oxide biosynthetic process			ISO	RGD:631408 	J:155856 	
+MGI:1921582	Moxd1	monooxygenase, DBH-like 1	10		octopamine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:2388042	Moxd2	monooxygenase, DBH-like 2	6		octopamine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:1928394	Mtor	mechanistic target of rapamycin kinase	4		positive regulation of nitric oxide biosynthetic process			ISO	RGD:68371 	J:155856 	
+MGI:1919810	Naalad2	N-acetylated alpha-linked acidic dipeptidase 2	9		neurotransmitter catabolic process			IDA		J:90409 J:180715 	
+MGI:97360	Nos1	nitric oxide synthase 1, neuronal	5		nitric oxide biosynthetic process			IBA	PTN001066032 	J:265628 	
+MGI:97360	Nos1	nitric oxide synthase 1, neuronal	5		nitric oxide biosynthetic process			IDA		J:139346 J:212817 	
+MGI:97360	Nos1	nitric oxide synthase 1, neuronal	5		nitric oxide biosynthetic process			ISO	RGD:3184 	J:155856 	
+MGI:97361	Nos2	nitric oxide synthase 2, inducible	11		nitric oxide biosynthetic process			IBA	PTN001066032 	J:265628 	
+MGI:97361	Nos2	nitric oxide synthase 2, inducible	11		nitric oxide biosynthetic process			IDA		J:139344 J:139347 	
+MGI:97361	Nos2	nitric oxide synthase 2, inducible	11		nitric oxide biosynthetic process			ISO	P35228 	J:164563 	
+MGI:97362	Nos3	nitric oxide synthase 3, endothelial cell	5		nitric oxide biosynthetic process			IBA	PTN001066032 	J:265628 	
+MGI:97362	Nos3	nitric oxide synthase 3, endothelial cell	5		nitric oxide biosynthetic process			IMP	MGI:1857229 	J:97766 	
+MGI:97362	Nos3	nitric oxide synthase 3, endothelial cell	5		nitric oxide biosynthetic process			ISO	RGD:3186 	J:155856 	
+MGI:97362	Nos3	nitric oxide synthase 3, endothelial cell	5		nitric oxide biosynthetic process			ISO	P29474 	J:164563 	
+MGI:97441	Oprm1	opioid receptor, mu 1	10		negative regulation of nitric oxide biosynthetic process			ISO	P35372 	J:164563 	
+MGI:97441	Oprm1	opioid receptor, mu 1	10		positive regulation of nitric oxide biosynthetic process			ISO	P35372 	J:164563 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		nitric oxide biosynthetic process			IDA		J:104459 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		nitric oxide biosynthetic process			IMP	MGI:3612982 	J:104459 	
+MGI:97523	Pde1b	phosphodiesterase 1B, Ca2+-calmodulin dependent	15		serotonin metabolic process	happens in corpus striatum		IMP	MGI:3604470 	J:129460 	
+MGI:1344408	Pebp1	phosphatidylethanolamine binding protein 1	5		positive regulation of acetylcholine metabolic process			ISO	RGD:62017 	J:155856 	
+MGI:1355330	Phgdh	3-phosphoglycerate dehydrogenase	3		gamma-aminobutyric acid metabolic process	happens in spinal cord		IMP	MGI:3769591 	J:145763 	
+MGI:1355330	Phgdh	3-phosphoglycerate dehydrogenase	3		glycine metabolic process	happens in spinal cord		IMP	MGI:3769591 	J:145763 	
+MGI:1099818	Pkd2	polycystin 2, transient receptor potential cation channel	5		positive regulation of nitric oxide biosynthetic process			IMP		J:182484 	
+MGI:1099818	Pkd2	polycystin 2, transient receptor potential cation channel	5		positive regulation of nitric oxide biosynthetic process			ISO	Q13563 	J:164563 	
+MGI:97744	Por	P450 (cytochrome) oxidoreductase	5		nitric oxide catabolic process			ISO	RGD:68335 	J:155856 	
+MGI:1858200	Prg3	proteoglycan 3	2		histamine biosynthetic process			ISO	Q9Y2Y8 	J:164563 	
+MGI:1926097	Prima1	proline rich membrane anchor 1	12		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:1097156	Ptgis	prostaglandin I2 (prostacyclin) synthase	2		negative regulation of nitric oxide biosynthetic process			ISO	Q16647 	J:164563 	
+MGI:97798	Ptgs2	prostaglandin-endoperoxide synthase 2	1		positive regulation of nitric oxide biosynthetic process			ISO	RGD:620349 	J:155856 	
+MGI:104908	Ptk2b	PTK2 protein tyrosine kinase 2 beta	14		positive regulation of nitric oxide biosynthetic process			ISO	RGD:628758 	J:155856 	
+MGI:104908	Ptk2b	PTK2 protein tyrosine kinase 2 beta	14		regulation of nitric oxide biosynthetic process			IMP		J:139849 	
+MGI:104641	Ptx3	pentraxin related gene	3		positive regulation of nitric oxide biosynthetic process			IMP		J:89006 	
+MGI:97845	Rac1	Rac family small GTPase 1	5		regulation of nitric oxide biosynthetic process			ISO	RGD:619755 	J:155856 	
+MGI:109432	Raet1b	retinoic acid early transcript beta	10		positive regulation of nitric oxide biosynthetic process			IDA		J:82077 	
+MGI:108024	Rgn	regucalcin	X		negative regulation of nitric oxide biosynthetic process			ISO	RGD:3560 	J:155856 	
+MGI:1919066	Rnf180	ring finger protein 180	13		serotonin metabolic process			IBA	PTN002511357 	J:265628 	
+MGI:1919066	Rnf180	ring finger protein 180	13		serotonin metabolic process			IMP		J:199865 	
+MGI:107926	Rock2	Rho-associated coiled-coil containing protein kinase 2	12		negative regulation of nitric oxide biosynthetic process	is a part of response to ischemia,happens in brain microvascular endothelial cell,happens in cerebral cortex|happens in cardiac endothelial cell		IMP		J:268013 	
+MGI:107926	Rock2	Rho-associated coiled-coil containing protein kinase 2	12		negative regulation of nitric oxide biosynthetic process			ISO	O75116 	J:164563 	
+MGI:104661	Rora	RAR-related orphan receptor alpha	9		nitric oxide biosynthetic process	happens in cerebellum		IMP	MGI:1857035 	J:18352 	
+MGI:95994	Selenos	selenoprotein S	7		regulation of nitric oxide metabolic process			ISO	Q9BQE4 	J:164563 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine biosynthetic process			ISO	RGD:1312011 	J:155856 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine biosynthetic process from serine			IBA	PTN000188065 	J:265628 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine biosynthetic process from serine			ISO	RGD:1312011 	J:155856 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine metabolic process			IBA	PTN000188065 	J:265628 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine metabolic process			ISO	RGD:1312011 	J:155856 	
+MGI:98299	Shmt1	serine hydroxymethyltransferase 1 (soluble)	11		glycine metabolic process			ISO	P34896 	J:164563 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine biosynthetic process			ISO	RGD:1308582 	J:155856 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine biosynthetic process from serine			IBA	PTN000188065 	J:265628 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine biosynthetic process from serine			ISO	RGD:1308582 	J:155856 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine metabolic process			IBA	PTN000188065 	J:265628 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine metabolic process			ISO	RGD:1308582 	J:155856 	
+MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	10		glycine metabolic process			ISO	P34897 	J:164563 	
+MGI:108563	Sirpa	signal-regulatory protein alpha	2		negative regulation of nitric oxide biosynthetic process	happens in macrophage,regulates a function/process that happens in macrophage,is a part of cellular response to lipopolysaccharide		IMP		J:126125 	
+MGI:108563	Sirpa	signal-regulatory protein alpha	2		regulation of nitric oxide biosynthetic process			ISO	RGD:3449 	J:155856 	
+MGI:99917	Slc1a3	solute carrier family 1 (glial high affinity glutamate transporter), member 3	15		gamma-aminobutyric acid biosynthetic process	has the participant retina,has the participant Muller cell|has the participant retina,has the participant amacrine cell		IMP	MGI:1931872 	J:104928 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			IBA	PTN000929655 	J:265628 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process	happens in brain		IMP	MGI:3045463 	J:90846 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			ISO	RGD:69270 	J:155856 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			ISO	Q9GZV3 	J:164563 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		neurotransmitter biosynthetic process			IEA	KW-0530 	J:60000 	
+MGI:99828	Slc7a2	solute carrier family 7 (cationic amino acid transporter, y+ system), member 2	8		nitric oxide biosynthetic process	happens in astrocyte		IMP	MGI:2150359 	J:82914 	
+MGI:1917379	Slc44a4	solute carrier family 44, member 4	17		acetylcholine biosynthetic process			ISO	Q53GD3 	J:164563 	
+MGI:1201674	Smad3	SMAD family member 3	9		positive regulation of nitric oxide biosynthetic process			ISO	RGD:3032 	J:155856 	
+MGI:1201674	Smad3	SMAD family member 3	9		positive regulation of nitric oxide biosynthetic process			ISO	P84022 	J:164563 	
+MGI:1927578	Smpd3	sphingomyelin phosphodiesterase 3, neutral	8		positive regulation of nitric oxide biosynthetic process			ISO	RGD:619754 	J:155856 	
+MGI:98352	Sod2	superoxide dismutase 2, mitochondrial	17		positive regulation of nitric oxide biosynthetic process			IMP	MGI:1857480 	J:98222 	
+MGI:103078	Spr	sepiapterin reductase	6		nitric oxide biosynthetic process			ISO	P35270 	J:164563 	
+MGI:103078	Spr	sepiapterin reductase	6		serotonin metabolic process			IMP	MGI:3757641 	J:124817 	
+MGI:98735	Th	tyrosine hydroxylase	7		neurotransmitter biosynthetic process			IEA	KW-0530 	J:60000 	
+MGI:1919026	Tha1	threonine aldolase 1	11		glycine biosynthetic process			IBA	PTN000033149 	J:265628 	
+MGI:2147032	Ticam1	toll-like receptor adaptor molecule 1	17		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in macrophage		IMP	MGI:2679794 	J:84896 	
+MGI:1346060	Tlr2	toll-like receptor 2	3		nitric oxide metabolic process			ISO	RGD:735138 	J:155856 	
+MGI:1346060	Tlr2	toll-like receptor 2	3		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in brain		IMP	MGI:2178675 	J:104231 	
+MGI:1346060	Tlr2	toll-like receptor 2	3		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in peritoneal macrophage		IMP	MGI:2178675 	J:76115 	
+MGI:96824	Tlr4	toll-like receptor 4	4		positive regulation of nitric oxide biosynthetic process	is a part of cellular response to amyloid-beta,regulates a function/process that happens in microglial cell,positively regulates neuron death		IGI	P05067 	J:158401 	
+MGI:96824	Tlr4	toll-like receptor 4	4		positive regulation of nitric oxide biosynthetic process	regulates a function/process that happens in peritoneal macrophage		IMP	MGI:1860885 	J:76115 	
+MGI:1858171	Tlr5	toll-like receptor 5	1		positive regulation of nitric oxide biosynthetic process			ISO	RGD:631351 	J:155856 	
+MGI:1341296	Tlr6	toll-like receptor 6	5		nitric oxide metabolic process			ISO	RGD:1303030 	J:155856 	
+MGI:1341296	Tlr6	toll-like receptor 6	5		positive regulation of nitric oxide biosynthetic process	is a part of cellular response to amyloid-beta,regulates a function/process that happens in microglial cell,positively regulates neuron death		IGI	O00206 P05067 P16671 	J:158401 	
+MGI:104798	Tnf	tumor necrosis factor	17		positive regulation of nitric oxide biosynthetic process			ISO	P01375 	J:164563 	
+MGI:3769724	Tomt	transmembrane O-methyltransferase	7		neurotransmitter catabolic process			IEA	KW-0531 	J:60000 	
+MGI:98796	Tph1	tryptophan hydroxylase 1	7		serotonin biosynthetic process			IEA	IPR005963 	J:72247 	
+MGI:98796	Tph1	tryptophan hydroxylase 1	7		serotonin biosynthetic process			IEA	KW-0724 	J:60000 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process			IEA	IPR005963 	J:72247 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process			IEA	KW-0724 	J:60000 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process from tryptophan			IC	GO:0004510 	J:82435 	
+MGI:98823	Trh	thyrotropin releasing hormone	6		histamine metabolic process			IBA	PTN001048877 	J:265628 	
+MGI:98823	Trh	thyrotropin releasing hormone	6		histamine metabolic process			ISO	RGD:3903 	J:155856 	
+MGI:1341787	Trpv1	transient receptor potential cation channel, subfamily V, member 1	11		positive regulation of nitric oxide biosynthetic process			ISO	RGD:628841 	J:155856 	
+MGI:88222	Tspo	translocator protein	15		negative regulation of nitric oxide biosynthetic process			ISO	RGD:2228 	J:155856 	
+MGI:1925027	Ulbp1	UL16 binding protein 1	10		positive regulation of nitric oxide biosynthetic process			IDA		J:82077 	
+MGI:2143535	Upb1	ureidopropionase, beta	10		beta-alanine biosynthetic process via 3-ureidopropionate			IBA	PTN000557641 	J:265628 	
+MGI:2143535	Upb1	ureidopropionase, beta	10		beta-alanine biosynthetic process via 3-ureidopropionate			ISO	Q9UBR1 	J:164563 	
+MGI:2143535	Upb1	ureidopropionase, beta	10		beta-alanine metabolic process			IBA	PTN000557641 	J:265628 	
+MGI:2143535	Upb1	ureidopropionase, beta	10		beta-alanine metabolic process			ISO	RGD:620091 	J:155856 	
+MGI:1921932	Wdr35	WD repeat domain 35	12		negative regulation of nitric oxide biosynthetic process			ISO	RGD:1564116 	J:155856 	
+MGI:2385891	Zc3h12a	zinc finger CCCH type containing 12A	4		negative regulation of nitric oxide biosynthetic process			IDA		J:174994 	
+MGI:2385891	Zc3h12a	zinc finger CCCH type containing 12A	4		negative regulation of nitric oxide biosynthetic process			ISO	Q5D1E8 	J:164563 	
+MGI:2385891	Zc3h12a	zinc finger CCCH type containing 12A	4		negative regulation of nitric oxide biosynthetic process			ISS	Q5D1E8 	J:196097 	
+

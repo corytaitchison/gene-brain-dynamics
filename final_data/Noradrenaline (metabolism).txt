@@ -1,0 +1,29 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1353494	Akr1b3	aldo-keto reductase family 1, member B3 (aldose reductase)	6		norepinephrine metabolic process			ISO	RGD:2092 	J:155856 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		norepinephrine biosynthetic process	happens in brain		IMP	MGI:1856097 	J:5462 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		norepinephrine biosynthetic process			IMP	MGI:1856098 	J:5323 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		norepinephrine metabolic process	happens in brain		IMP	MGI:1856102 	J:5373 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		norepinephrine metabolic process	happens in brain		IMP	MGI:1856466 	J:24169 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		norepinephrine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		norepinephrine biosynthetic process			IMP		J:24414 J:233675 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		norepinephrine biosynthetic process			IMP	MGI:1857556 	J:47690 J:53358 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		norepinephrine biosynthetic process			ISO	RGD:2489 	J:155856 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		norepinephrine biosynthetic process			ISO	P09172 	J:164563 	
+MGI:109169	Epas1	endothelial PAS domain protein 1	17		norepinephrine biosynthetic process			ISO	RGD:68404 	J:155856 	
+MGI:109169	Epas1	endothelial PAS domain protein 1	17		norepinephrine metabolic process	happens in embryo		IMP	MGI:1861921 	J:50964 	
+MGI:95663	Gata3	GATA binding protein 3	2		norepinephrine biosynthetic process	happens in sympathetic nervous system		IMP	MGI:2153826 	J:62552 	
+MGI:103580	Hand2	heart and neural crest derivatives expressed 2	8		positive regulation of transcription from RNA polymerase II promoter involved in norepinephrine biosynthetic process			IMP		J:155265 	
+MGI:1859980	Insm1	insulinoma-associated 1	2		norepinephrine biosynthetic process			IMP		J:130853 	
+MGI:1101771	Kl	klotho	5		norepinephrine biosynthetic process			ISO	RGD:620396 	J:155856 	
+MGI:106651	Ly6e	lymphocyte antigen 6 complex, locus E	15		norepinephrine metabolic process	happens in adrenal gland		IMP	MGI:2429638 	J:73972 	
+MGI:1921582	Moxd1	monooxygenase, DBH-like 1	10		norepinephrine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:2388042	Moxd2	monooxygenase, DBH-like 2	6		norepinephrine biosynthetic process			IBA	PTN000806665 	J:265628 	
+MGI:97724	Pnmt	phenylethanolamine-N-methyltransferase	11		norepinephrine metabolic process			ISO	RGD:3361 	J:155856 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		norepinephrine metabolic process	happens in main olfactory bulb|happens in spinal cord		IMP	MGI:3050230 	J:91487 	
+MGI:1919066	Rnf180	ring finger protein 180	13		norepinephrine metabolic process			IBA	PTN002511357 	J:265628 	
+MGI:1919066	Rnf180	ring finger protein 180	13		norepinephrine metabolic process			IMP		J:199865 	
+MGI:1915045	Rnls	renalase, FAD-dependent amine oxidase	19		norepinephrine metabolic process			IMP	MGI:5433853 	J:186878 	
+MGI:3588192	Rtl4	retrotransposon Gag like 4	X		norepinephrine metabolic process			IMP	MGI:5789261 	J:228903 	
+MGI:103078	Spr	sepiapterin reductase	6		norepinephrine metabolic process	happens in cerebellum		IMP	MGI:3757641 	J:124817 	
+MGI:98735	Th	tyrosine hydroxylase	7		norepinephrine biosynthetic process			ISO	P07101 	J:164563 	
+

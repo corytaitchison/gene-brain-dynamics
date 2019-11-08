@@ -1,0 +1,21 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:105368	Atp2b2	ATPase, Ca++ transporting, plasma membrane 2	6		serotonin metabolic process	happens in central nervous system		IMP	MGI:1857092 	J:19947 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		serotonin metabolic process	happens in cerebral cortex|happens in diencephalon|happens in brainstem		IMP	MGI:1856098 	J:16943 	
+MGI:1916625	Btbd9	BTB (POZ) domain containing 9	17		serotonin metabolic process	happens in corpus striatum		IMP	MGI:4127237 	J:187433 	
+MGI:1929474	Cyp2d22	cytochrome P450, family 2, subfamily d, polypeptide 22	15		serotonin biosynthetic process from tryptophan			ISO	RGD:620640 	J:155856 	
+MGI:94876	Ddc	dopa decarboxylase	11		serotonin biosynthetic process			ISO	RGD:2494 	J:155856 	
+MGI:2449712	Fev	FEV transcription factor, ETS family member	1		regulation of serotonin biosynthetic process			NAS		J:237675 	
+MGI:95675	Gch1	GTP cyclohydrolase 1	14		regulation of serotonin biosynthetic process			NAS		J:237675 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		serotonin metabolic process			IMP	MGI:1928285 	J:78374 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		serotonin metabolic process			IMP		J:65662 	
+MGI:96915	Maoa	monoamine oxidase A	X		serotonin metabolic process			ISO	RGD:61898 	J:155856 	
+MGI:97523	Pde1b	phosphodiesterase 1B, Ca2+-calmodulin dependent	15		serotonin metabolic process	happens in corpus striatum		IMP	MGI:3604470 	J:129460 	
+MGI:1919066	Rnf180	ring finger protein 180	13		serotonin metabolic process			IBA	PTN002511357 	J:265628 	
+MGI:1919066	Rnf180	ring finger protein 180	13		serotonin metabolic process			IMP		J:199865 	
+MGI:103078	Spr	sepiapterin reductase	6		serotonin metabolic process			IMP	MGI:3757641 	J:124817 	
+MGI:98796	Tph1	tryptophan hydroxylase 1	7		serotonin biosynthetic process			IEA	IPR005963 	J:72247 	
+MGI:98796	Tph1	tryptophan hydroxylase 1	7		serotonin biosynthetic process			IEA	KW-0724 	J:60000 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process			IEA	IPR005963 	J:72247 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process			IEA	KW-0724 	J:60000 	
+MGI:2651811	Tph2	tryptophan hydroxylase 2	10		serotonin biosynthetic process from tryptophan			IC	GO:0004510 	J:82435 	
+

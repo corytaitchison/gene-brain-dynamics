@@ -1,0 +1,52 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity			IDA		J:140050 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity			ISO	P21728 	J:73065 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs			IDA		J:16494 J:21603 J:33119 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs	happens in corpus striatum		IDA		J:29045 J:65770 J:86377 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs	happens in amygdala|happens in hippocampus		IDA		J:114543 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs	happens in frontal cortex		IDA		J:109223 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs			IMP	MGI:1857158 	J:22076 J:43604 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs			IMP	MGI:2159306 	J:100026 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs			ISO	RGD:2518 	J:155856 	
+MGI:99578	Drd1	dopamine receptor D1	13		dopamine neurotransmitter receptor activity, coupled via Gs			ISO	P21728 	J:164563 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity			IDA		J:140050 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity			ISO	RGD:2520 	J:155856 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IDA		J:16494 J:34152 J:65023 J:112986 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go		PR:P61168-1	IDA		J:40408 J:41193 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go		PR:P61168-2	IDA		J:40408 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum		IDA		J:10932 J:86377 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum	PR:P61168-1	IDA		J:65770 J:104036 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum	PR:P61168-2	IDA		J:104036 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum|happens in olfactory tubercle		IDA		J:29045 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum		IMP		J:98436 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in corpus striatum		IMP	MGI:1857875 	J:67550 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in hippocampus CA1|happens in hippocampus CA3|happens in dentate gyrus		IMP	MGI:2387895 	J:65767 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in pituitary gland		IMP	MGI:2387895 	J:41857 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in caudate-putamen|happens in accumbens nucleus|happens in olfactory tubercle		IMP	MGI:3576789 	J:97838 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	RGD:2520 	J:155856 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	P14416 	J:164563 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity			ISO	RGD:2521 	J:155856 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IDA		J:32128 J:34152 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go		PR:P30728-2	IDA		J:24208 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in islands of Calleja		IDA		J:29045 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	RGD:2521 	J:155856 	
+MGI:94925	Drd3	dopamine receptor D3	16		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	P35462 	J:164563 	
+MGI:94926	Drd4	dopamine receptor D4	7		dopamine neurotransmitter receptor activity			ISO	P21917 	J:164563 	
+MGI:94926	Drd4	dopamine receptor D4	7		dopamine neurotransmitter receptor activity, coupled via Gi/Go	happens in frontal cortex,happens in pyramidal neuron		IMP	MGI:2178631 	J:69457 	
+MGI:94926	Drd4	dopamine receptor D4	7		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	RGD:2522 	J:155856 	
+MGI:94926	Drd4	dopamine receptor D4	7		dopamine neurotransmitter receptor activity, coupled via Gi/Go			ISO	P21917 	J:164563 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity			ISO	RGD:2523 	J:155856 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity			ISO	P21918 	J:164563 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity			ISO	P25115 	J:73065 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity, coupled via Gs	happens in amygdala|happens in hippocampus		IDA		J:114543 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity, coupled via Gs			IMP		J:100026 	
+MGI:94927	Drd5	dopamine receptor D5	5		dopamine neurotransmitter receptor activity, coupled via Gs			ISO	RGD:2523 	J:155856 	
+MGI:2659178	Olfr150	olfactory receptor 150	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:3030109	Olfr275	olfactory receptor 275	4		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:3030517	Olfr683	olfactory receptor 683	7		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:3030518	Olfr684	olfactory receptor 684	7		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:3030753	Olfr919	olfactory receptor 919	9		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+MGI:3030935	Olfr1101	olfactory receptor 1101	2		dopamine neurotransmitter receptor activity, coupled via Gi/Go			IBA	PTN001545416 	J:265628 	
+

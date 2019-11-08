@@ -1,0 +1,43 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1345167	Aadat	aminoadipate aminotransferase	8		glutamate metabolic process			ISO	Q8N5Z0 	J:164563 	
+MGI:1923437	Adhfe1	alcohol dehydrogenase, iron containing, 1	1		glutamate catabolic process via 2-oxoglutarate			ISO	Q8IWW8 	J:164563 	
+MGI:2443883	Aldh4a1	aldehyde dehydrogenase 4 family, member A1	4		proline catabolic process to glutamate			IEA	IPR005931 	J:72247 	
+MGI:2441982	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	13		glutamate metabolic process	happens in glial cell (sensu Vertebrata)|happens in neuron		IMP	MGI:2180159 	J:128716 	
+MGI:1888908	Aldh18a1	aldehyde dehydrogenase 18 family, member A1	19		glutamate metabolic process			ISO	P54886 	J:164563 	
+MGI:1919011	Amdhd1	amidohydrolase domain containing 1	10		histidine catabolic process to glutamate and formamide			IEA	IPR005920 	J:72247 	
+MGI:88039	Apc	APC, WNT signaling pathway regulator	18		regulation of glutamate metabolic process			ISO	RGD:2123 	J:155856 	
+MGI:88084	Asl	argininosuccinate lyase	5		ammonia assimilation cycle			IMP	MGI:3604881 	J:101658 	
+MGI:2448730	Atcay	ataxia, cerebellar, Cayman type	10		negative regulation of glutamate metabolic process			ISO	Q86WG3 	J:164563 	
+MGI:2444813	Dglucy	D-glutamate cyclase	12		glutamate metabolic process			IBA	PTN001279054 	J:265628 	
+MGI:2444813	Dglucy	D-glutamate cyclase	12		glutamate metabolic process			IDA		J:241368 	
+MGI:95576	Fpgs	folylpolyglutamyl synthetase	2		glutamate metabolic process			ISO	Q05932 	J:164563 	
+MGI:95634	Gad2	glutamic acid decarboxylase 2	2		glutamate decarboxylation to succinate			ISO	RGD:2653 	J:155856 	
+MGI:104990	Gclc	glutamate-cysteine ligase, catalytic subunit	9		glutamate metabolic process			ISO	P48506 	J:164563 	
+MGI:104995	Gclm	glutamate-cysteine ligase, modifier subunit	3		glutamate metabolic process			ISO	P48507 	J:164563 	
+MGI:95706	Ggt1	gamma-glutamyltransferase 1	10		glutamate metabolic process			ISO	P19440 	J:164563 	
+MGI:95752	Gls	glutaminase	1		glutamate biosynthetic process			IBA	PTN000283994 	J:265628 	
+MGI:95752	Gls	glutaminase	1		glutamate biosynthetic process			IDA		J:184098 	
+MGI:95752	Gls	glutaminase	1		glutamate biosynthetic process			ISO	O94925 	J:164563 	
+MGI:2143539	Gls2	glutaminase 2 (liver, mitochondrial)	10		glutamate biosynthetic process			IBA	PTN000283994 	J:265628 	
+MGI:95753	Glud1	glutamate dehydrogenase 1	14		glutamate biosynthetic process			ISO	P00367 	J:164563 	
+MGI:95753	Glud1	glutamate dehydrogenase 1	14		glutamate catabolic process			ISO	P00367 	J:164563 	
+MGI:95739	Glul	glutamate-ammonia ligase (glutamine synthetase)	1		ammonia assimilation cycle			ISO	RGD:2710 	J:155856 	
+MGI:95739	Glul	glutamate-ammonia ligase (glutamine synthetase)	1		glutamate metabolic process			ISO	RGD:2710 	J:155856 	
+MGI:95791	Got1	glutamic-oxaloacetic transaminase 1, soluble	19		glutamate catabolic process to 2-oxoglutarate			IDA		J:5163 	
+MGI:95791	Got1	glutamic-oxaloacetic transaminase 1, soluble	19		glutamate catabolic process to 2-oxoglutarate			ISO	RGD:2721 	J:155856 	
+MGI:95791	Got1	glutamic-oxaloacetic transaminase 1, soluble	19		glutamate catabolic process to aspartate			IDA		J:5163 	
+MGI:95792	Got2	glutamatic-oxaloacetic transaminase 2, mitochondrial	8		glutamate catabolic process to 2-oxoglutarate			IDA		J:5163 	
+MGI:95792	Got2	glutamatic-oxaloacetic transaminase 2, mitochondrial	8		glutamate catabolic process to 2-oxoglutarate			ISO	RGD:2722 	J:155856 	
+MGI:95792	Got2	glutamatic-oxaloacetic transaminase 2, mitochondrial	8		glutamate catabolic process to aspartate			IDA		J:5163 	
+MGI:2387600	Nags	N-acetylglutamate synthase	11		glutamate metabolic process			IBA	PTN000597391 	J:265628 	
+MGI:2387600	Nags	N-acetylglutamate synthase	11		glutamate metabolic process			IDA		J:79435 	
+MGI:1352464	Nr1h4	nuclear receptor subfamily 1, group H, member 4	10		positive regulation of ammonia assimilation cycle			IMP		J:180347 	
+MGI:1352464	Nr1h4	nuclear receptor subfamily 1, group H, member 4	10		positive regulation of glutamate metabolic process			IMP		J:180347 	
+MGI:97394	Oat	ornithine aminotransferase	7		arginine catabolic process to glutamate			IBA	PTN000241155 	J:265628 	
+MGI:97770	Prodh	proline dehydrogenase	16		proline catabolic process to glutamate			IBA	PTN000357758 	J:265628 	
+MGI:1929093	Prodh2	proline dehydrogenase (oxidase) 2	7		proline catabolic process to glutamate			IBA	PTN000357758 	J:265628 	
+MGI:1347355	Slc7a11	solute carrier family 7 (cationic amino acid transporter, y+ system), member 11	3		regulation of glutamate metabolic process			IMP		J:208250 	
+MGI:1347355	Slc7a11	solute carrier family 7 (cationic amino acid transporter, y+ system), member 11	3		regulation of glutamate metabolic process			IMP	MGI:3608695 	J:170967 J:218184 	
+MGI:98487	Tat	tyrosine aminotransferase	8		glutamate metabolic process			IDA		J:186028 	
+MGI:98487	Tat	tyrosine aminotransferase	8		glutamate metabolic process			ISO	P17735 	J:164563 	
+

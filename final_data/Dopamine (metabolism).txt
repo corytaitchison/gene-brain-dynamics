@@ -1,0 +1,75 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		positive regulation of dopamine metabolic process			ISO	RGD:620948 	J:155856 	
+MGI:87964	Agtr1a	angiotensin II receptor, type 1a	13		dopamine biosynthetic process			ISO	RGD:2070 	J:155856 	
+MGI:87966	Agtr2	angiotensin II receptor, type 2	X		dopamine biosynthetic process			ISO	RGD:2072 	J:155856 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		dopamine metabolic process	happens in cerebral cortex|happens in diencephalon|happens in brainstem		IMP	MGI:1856098 	J:16943 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		dopamine metabolic process	happens in cingulate cortex|happens in hypothalamus|happens in thalamus		IMP	MGI:1856098 	J:2026 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		dopamine metabolic process	happens in brain		IMP	MGI:1856466 	J:24169 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		regulation of dopamine metabolic process	regulates a function/process that happens in corpus striatum		IMP	MGI:1926253 	J:106489 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		dopamine catabolic process			IDA		J:79010 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		dopamine metabolic process			IBA	PTN000053580 	J:265628 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		dopamine metabolic process			IDA		J:200928 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		dopamine metabolic process		PR:O88587-1	IMP	MGI:2178542 MGI:4830700 	J:164057 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		dopamine metabolic process		PR:O88587-2	IMP	MGI:2178542 MGI:4830700 	J:164057 	
+MGI:88470	Comt	catechol-O-methyltransferase	16		negative regulation of dopamine metabolic process			ISO	RGD:2379 	J:155856 	
+MGI:1929474	Cyp2d22	cytochrome P450, family 2, subfamily d, polypeptide 22	15		dopamine biosynthetic process			ISO	RGD:620640 	J:155856 	
+MGI:1929474	Cyp2d22	cytochrome P450, family 2, subfamily d, polypeptide 22	15		dopamine metabolic process			ISO	RGD:620640 	J:155856 	
+MGI:94859	Dao	D-amino acid oxidase	5		dopamine biosynthetic process			ISO	P14920 	J:164563 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		dopamine catabolic process			IBA	PTN000806665 	J:265628 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		dopamine catabolic process			IMP		J:24414 J:233675 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		dopamine catabolic process			IMP	MGI:1857556 	J:53358 	
+MGI:94864	Dbh	dopamine beta hydroxylase	2		dopamine catabolic process			ISO	P09172 	J:164563 	
+MGI:94876	Ddc	dopa decarboxylase	11		dopamine biosynthetic process			ISO	RGD:2494 	J:155856 	
+MGI:99578	Drd1	dopamine receptor D1	13		regulation of dopamine metabolic process	regulates a function/process that happens in caudate-putamen		IMP	MGI:1857158 	J:70177 	
+MGI:94924	Drd2	dopamine receptor D2	9		dopamine metabolic process	happens in corpus striatum		IMP		J:20835 	
+MGI:94926	Drd4	dopamine receptor D4	7		regulation of dopamine metabolic process	regulates a function/process that happens in caudate-putamen|regulates a function/process that happens in accumbens nucleus		IMP	MGI:2178631 	J:43061 	
+MGI:109169	Epas1	endothelial PAS domain protein 1	17		positive regulation of dopamine biosynthetic process			ISO	RGD:68404 	J:155856 	
+MGI:95675	Gch1	GTP cyclohydrolase 1	14		dopamine biosynthetic process			ISO	P30793 	J:164563 	
+MGI:1313297	Gpr37	G protein-coupled receptor 37	6		dopamine biosynthetic process	happens in corpus striatum		IMP	MGI:3027995 	J:91390 	
+MGI:1313297	Gpr37	G protein-coupled receptor 37	6		positive regulation of dopamine metabolic process	happens in corpus striatum		IMP	MGI:3027995 	J:91390 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		dopamine metabolic process			IMP	MGI:1928285 	J:78374 	
+MGI:96217	Hprt	hypoxanthine guanine phosphoribosyl transferase	X		dopamine metabolic process	happens in caudate-putamen		IMP	MGI:1857299 	J:17798 J:17905 	
+MGI:96217	Hprt	hypoxanthine guanine phosphoribosyl transferase	X		dopamine metabolic process	happens in caudate-putamen,happens in dopaminergic neuron		IMP	MGI:1857299 	J:51651 	
+MGI:96217	Hprt	hypoxanthine guanine phosphoribosyl transferase	X		positive regulation of dopamine metabolic process			ISO	P00492 	J:164563 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		regulation of dopamine metabolic process			IMP		J:65662 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		negative regulation of dopamine metabolic process			ISO	RGD:2848 	J:155856 	
+MGI:96607	Itgam	integrin alpha M	7		negative regulation of dopamine metabolic process	happens in corpus striatum,is a part of cellular response to stress		IDA		J:140934 	
+MGI:96915	Maoa	monoamine oxidase A	X		dopamine catabolic process			IDA		J:79010 	
+MGI:96916	Maob	monoamine oxidase B	X		positive regulation of dopamine metabolic process			ISO	RGD:3041 	J:155856 	
+MGI:1921582	Moxd1	monooxygenase, DBH-like 1	10		dopamine catabolic process			IBA	PTN000806665 	J:265628 	
+MGI:2388042	Moxd2	monooxygenase, DBH-like 2	6		dopamine catabolic process			IBA	PTN000806665 	J:265628 	
+MGI:1343135	Ndufs4	NADH:ubiquinone oxidoreductase core subunit S4	13		dopamine metabolic process			IMP	MGI:3527173 	J:260020 	
+MGI:3038234	nm3	neurological mutant 3	2		dopamine metabolic process	happens in midbrain		IMP	MGI:3038126 	J:88298 	
+MGI:97371	Npr1	natriuretic peptide receptor 1	3		dopamine metabolic process			ISO	RGD:3195 	J:155856 	
+MGI:1352456	Nr4a2	nuclear receptor subfamily 4, group A, member 2	2		dopamine biosynthetic process	happens in midbrain		IMP	MGI:2429971 	J:128668 	
+MGI:1352456	Nr4a2	nuclear receptor subfamily 4, group A, member 2	2		dopamine biosynthetic process	happens in substantia nigra|happens in ventral tegmental nucleus		IMP	MGI:2429971 	J:47684 	
+MGI:1352456	Nr4a2	nuclear receptor subfamily 4, group A, member 2	2		dopamine metabolic process	happens in brain		IMP	MGI:2429971 	J:96227 	
+MGI:1352456	Nr4a2	nuclear receptor subfamily 4, group A, member 2	2		regulation of dopamine metabolic process			IDA		J:85047 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		positive regulation of dopamine biosynthetic process			ISO	Q99497 	J:164563 	
+MGI:97523	Pde1b	phosphodiesterase 1B, Ca2+-calmodulin dependent	15		regulation of dopamine metabolic process	regulates a function/process that happens in corpus striatum		IMP	MGI:3604470 	J:129460 	
+MGI:1930773	Pnkd	paroxysmal nonkinesiogenic dyskinesia	1		regulation of dopamine metabolic process	regulates a function/process that happens in corpus striatum		IMP	MGI:5006973 	J:192798 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		dopamine metabolic process	happens in corpus striatum|happens in diencephalon|happens in brainstem		IMP	MGI:2678247 	J:85561 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17	NOT	dopamine metabolic process	happens in corpus striatum		IMP	MGI:3055212 	J:95204 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		regulation of dopamine metabolic process			ISO	O60260 	J:164563 	
+MGI:1915045	Rnls	renalase, FAD-dependent amine oxidase	19		dopamine metabolic process			IMP	MGI:5433853 	J:186878 	
+MGI:94862	Slc6a3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	13		dopamine biosynthetic process			IMP	MGI:2386303 	J:79010 	
+MGI:94862	Slc6a3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	13		dopamine catabolic process			IMP	MGI:2386303 	J:79010 	
+MGI:94862	Slc6a3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	13		regulation of dopamine metabolic process			IMP	MGI:2386303 	J:79010 	
+MGI:94862	Slc6a3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	13		regulation of dopamine metabolic process	regulates a function/process that happens in hypothalamus|regulates a function/process that happens in pituitary gland		IMP	MGI:2386303 	J:41856 	
+MGI:1277151	Snca	synuclein, alpha	6		dopamine biosynthetic process	happens in corpus striatum		IMP	MGI:1888382 	J:60151 	
+MGI:1277151	Snca	synuclein, alpha	6		dopamine metabolic process	happens in corpus striatum		IGI	MGI:1889011 	J:93544 	
+MGI:1277151	Snca	synuclein, alpha	6		negative regulation of dopamine metabolic process			ISO	RGD:3729 	J:155856 	
+MGI:1915097	Sncaip	synuclein, alpha interacting protein (synphilin)	18		dopamine metabolic process			ISO	Q9Y6H5 	J:73065 	
+MGI:1889011	Sncb	synuclein, beta	13		dopamine metabolic process	happens in corpus striatum		IGI	MGI:1277151 	J:93544 	
+MGI:103078	Spr	sepiapterin reductase	6		dopamine metabolic process	happens in caudate-putamen|happens in cerebellum		IMP	MGI:3757641 	J:124817 	
+MGI:892968	Tacr3	tachykinin receptor 3	3		regulation of dopamine metabolic process			ISO	RGD:3810 	J:155856 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		dopamine biosynthetic process			IMP		J:108007 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process			ISO	P07101 	J:164563 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process from tyrosine			IBA	PTN001690342 	J:265628 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process from tyrosine			IDA		J:79010 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process from tyrosine			IMP	MGI:1860450 	J:24347 J:30273 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process from tyrosine			ISO	RGD:3853 	J:155856 	
+MGI:98735	Th	tyrosine hydroxylase	7		dopamine biosynthetic process from tyrosine			TAS		J:54692 	
+MGI:3769724	Tomt	transmembrane O-methyltransferase	7		dopamine metabolic process			IBA	PTN000053580 	J:265628 	
+MGI:1890467	Vps35	VPS35 retromer complex component	8		positive regulation of dopamine biosynthetic process	happens in corpus striatum,happens in UBERON:0007023,happens in dopaminergic neuron|happens in midbrain,happens in UBERON:0007023,happens in dopaminergic neuron		IMP		J:225806 	
+

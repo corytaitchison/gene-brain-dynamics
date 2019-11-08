@@ -1,0 +1,16 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			IDA		J:17788 J:111571 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			ISO	RGD:69313 	J:155856 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine catabolic process			ISO	P22303 	J:164563 	
+MGI:87876	Ache	acetylcholinesterase	5		acetylcholine metabolic process			ISO	RGD:69313 	J:155856 	
+MGI:88392	Chat	choline acetyltransferase	14		acetylcholine biosynthetic process			IBA	PTN000502016 	J:265628 	
+MGI:88392	Chat	choline acetyltransferase	14		acetylcholine biosynthetic process			ISO	RGD:1304627 	J:155856 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		positive regulation of acetylcholine biosynthetic process			IC	GO:0051247 GO:1905920 	J:157839 	
+MGI:95583	Fshr	follicle stimulating hormone receptor	17		regulation of acetylcholine metabolic process	regulates a function/process that happens in central nervous system		IGI	MGI:88392 	J:109411 	
+MGI:1344408	Pebp1	phosphatidylethanolamine binding protein 1	5		positive regulation of acetylcholine metabolic process			ISO	RGD:62017 	J:155856 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			IBA	PTN000929655 	J:265628 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process	happens in brain		IMP	MGI:3045463 	J:90846 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			ISO	RGD:69270 	J:155856 	
+MGI:1927126	Slc5a7	solute carrier family 5 (choline transporter), member 7	17		acetylcholine biosynthetic process			ISO	Q9GZV3 	J:164563 	
+MGI:1917379	Slc44a4	solute carrier family 44, member 4	17		acetylcholine biosynthetic process			ISO	Q53GD3 	J:164563 	
+

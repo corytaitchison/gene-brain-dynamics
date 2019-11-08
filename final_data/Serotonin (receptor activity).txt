@@ -1,0 +1,56 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:88396	Chrm1	cholinergic receptor, muscarinic 1, CNS	19		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:88397	Chrm2	cholinergic receptor, muscarinic 2, cardiac	6		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:88398	Chrm3	cholinergic receptor, muscarinic 3, cardiac	13		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:88399	Chrm4	cholinergic receptor, muscarinic 4	2		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:109248	Chrm5	cholinergic receptor, muscarinic 5	2		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:94926	Drd4	dopamine receptor D4	7		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:107619	Hrh1	histamine receptor H1	6		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:108482	Hrh2	histamine receptor H2	13		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:2139279	Hrh3	histamine receptor H3	2		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:2429635	Hrh4	histamine receptor H4	18		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		G protein-coupled serotonin receptor activity			IDA		J:16036 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		G protein-coupled serotonin receptor activity			IMP		J:51280 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		G protein-coupled serotonin receptor activity			ISO	RGD:2845 	J:155856 	
+MGI:96273	Htr1a	5-hydroxytryptamine (serotonin) receptor 1A	13		G protein-coupled serotonin receptor activity			ISO	P08908 	J:164563 	
+MGI:96274	Htr1b	5-hydroxytryptamine (serotonin) receptor 1B	9		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96274	Htr1b	5-hydroxytryptamine (serotonin) receptor 1B	9		G protein-coupled serotonin receptor activity			IDA		J:15978 J:163130 	
+MGI:96274	Htr1b	5-hydroxytryptamine (serotonin) receptor 1B	9		G protein-coupled serotonin receptor activity			ISO	RGD:2846 	J:155856 	
+MGI:96274	Htr1b	5-hydroxytryptamine (serotonin) receptor 1B	9		G protein-coupled serotonin receptor activity			ISO	P28222 	J:164563 	
+MGI:96276	Htr1d	5-hydroxytryptamine (serotonin) receptor 1D	4		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96276	Htr1d	5-hydroxytryptamine (serotonin) receptor 1D	4		G protein-coupled serotonin receptor activity			IDA		J:43 	
+MGI:96276	Htr1d	5-hydroxytryptamine (serotonin) receptor 1D	4		G protein-coupled serotonin receptor activity			ISO	P28221 	J:164563 	
+MGI:96279	Htr1e	5-hydroxytryptamine (serotonin) receptor 1E	UN		G protein-coupled serotonin receptor activity			IDA		J:2640 	
+MGI:96279	Htr1e	5-hydroxytryptamine (serotonin) receptor 1E	UN		G protein-coupled serotonin receptor activity			ISS	P28566 	J:15473 	
+MGI:99842	Htr1f	5-hydroxytryptamine (serotonin) receptor 1F	16		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:99842	Htr1f	5-hydroxytryptamine (serotonin) receptor 1F	16		G protein-coupled serotonin receptor activity			ISO	P30939 	J:164563 	
+MGI:99842	Htr1f	5-hydroxytryptamine (serotonin) receptor 1F	16		G protein-coupled serotonin receptor activity			ISS	P30939 	J:20578 	
+MGI:109521	Htr2a	5-hydroxytryptamine (serotonin) receptor 2A	14		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:109521	Htr2a	5-hydroxytryptamine (serotonin) receptor 2A	14		G protein-coupled serotonin receptor activity			ISO	RGD:61800 	J:155856 	
+MGI:109521	Htr2a	5-hydroxytryptamine (serotonin) receptor 2A	14		G protein-coupled serotonin receptor activity			ISO	P28223 	J:31112 J:164563 	
+MGI:109323	Htr2b	5-hydroxytryptamine (serotonin) receptor 2B	1		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:109323	Htr2b	5-hydroxytryptamine (serotonin) receptor 2B	1		G protein-coupled serotonin receptor activity			IDA		J:163130 	
+MGI:109323	Htr2b	5-hydroxytryptamine (serotonin) receptor 2B	1		G protein-coupled serotonin receptor activity			ISO	P41595 	J:31112 J:164563 	
+MGI:109323	Htr2b	5-hydroxytryptamine (serotonin) receptor 2B	1		G protein-coupled serotonin receptor activity			TAS		J:64067 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		G protein-coupled serotonin receptor activity			IMP		J:174678 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		G protein-coupled serotonin receptor activity			ISO	RGD:2848 	J:155856 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		G protein-coupled serotonin receptor activity			ISO	P08909 	J:73065 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		G protein-coupled serotonin receptor activity			ISO	P28335 	J:31112 	
+MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	X		Gq/11-coupled serotonin receptor activity			ISO	P28335 	J:164563 	
+MGI:109246	Htr4	5 hydroxytryptamine (serotonin) receptor 4	18		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:109246	Htr4	5 hydroxytryptamine (serotonin) receptor 4	18		G protein-coupled serotonin receptor activity			ISO	RGD:2850 	J:155856 	
+MGI:109246	Htr4	5 hydroxytryptamine (serotonin) receptor 4	18		G protein-coupled serotonin receptor activity			ISO	Q13639 	J:73065 	
+MGI:96283	Htr5a	5-hydroxytryptamine (serotonin) receptor 5A	5		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96283	Htr5a	5-hydroxytryptamine (serotonin) receptor 5A	5		G protein-coupled serotonin receptor activity			ISO	RGD:2851 	J:155856 	
+MGI:96283	Htr5a	5-hydroxytryptamine (serotonin) receptor 5A	5		G protein-coupled serotonin receptor activity			ISO	P47898 	J:21931 	
+MGI:96284	Htr5b	5-hydroxytryptamine (serotonin) receptor 5B	1		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:96284	Htr5b	5-hydroxytryptamine (serotonin) receptor 5B	1		G protein-coupled serotonin receptor activity			IDA		J:15791 	
+MGI:96284	Htr5b	5-hydroxytryptamine (serotonin) receptor 5B	1		G protein-coupled serotonin receptor activity			ISO	RGD:62388 	J:155856 	
+MGI:1196627	Htr6	5-hydroxytryptamine (serotonin) receptor 6	4		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:1196627	Htr6	5-hydroxytryptamine (serotonin) receptor 6	4		G protein-coupled serotonin receptor activity			ISO	RGD:62044 	J:155856 	
+MGI:99841	Htr7	5-hydroxytryptamine (serotonin) receptor 7	19		G protein-coupled serotonin receptor activity			IBA	PTN000664111 	J:265628 	
+MGI:99841	Htr7	5-hydroxytryptamine (serotonin) receptor 7	19		G protein-coupled serotonin receptor activity			ISO	RGD:71034 	J:155856 	
+	
+

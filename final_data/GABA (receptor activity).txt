@@ -1,0 +1,69 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1860139	Gabbr1	gamma-aminobutyric acid (GABA) B receptor, 1	17		G protein-coupled GABA receptor activity			IBA	PTN000054983 	J:265628 	
+MGI:1860139	Gabbr1	gamma-aminobutyric acid (GABA) B receptor, 1	17		G protein-coupled GABA receptor activity			ISO	RGD:621537 	J:155856 	
+MGI:1860139	Gabbr1	gamma-aminobutyric acid (GABA) B receptor, 1	17		G protein-coupled GABA receptor activity			ISO	Q9UBS5 	J:164563 	
+MGI:1860139	Gabbr1	gamma-aminobutyric acid (GABA) B receptor, 1	17	contributes_to	G protein-coupled GABA receptor activity			ISO	Q9UBS5 	J:164563 	
+MGI:2386030	Gabbr2	gamma-aminobutyric acid (GABA) B receptor, 2	4		G protein-coupled GABA receptor activity			IBA	PTN000054983 	J:265628 	
+MGI:2386030	Gabbr2	gamma-aminobutyric acid (GABA) B receptor, 2	4		G protein-coupled GABA receptor activity			ISO	RGD:619864 	J:155856 	
+MGI:2386030	Gabbr2	gamma-aminobutyric acid (GABA) B receptor, 2	4	contributes_to	G protein-coupled GABA receptor activity			ISO	O75899 	J:164563 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11	contributes_to	GABA receptor activity			ISO	RGD:61855 	J:155856 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11		GABA-gated chloride ion channel activity			ISO	P14867 	J:164563 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11	contributes_to	GABA-gated chloride ion channel activity			ISO	P14867 	J:164563 	
+MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	5	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	5		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	5		GABA-gated chloride ion channel activity			ISO	P47869 	J:164563 	
+MGI:95615	Gabra3	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3	X	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95615	Gabra3	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3	X		GABA-A receptor activity			ISO	RGD:2648 	J:155856 	
+MGI:95615	Gabra3	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3	X		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95616	Gabra4	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 4	5	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95616	Gabra4	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 4	5		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7		GABA-A receptor activity			ISO	RGD:61859 	J:155856 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11	contributes_to	GABA-A receptor activity			ISO	RGD:61861 	J:155856 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11	contributes_to	GABA-gated chloride ion channel activity			ISO	RGD:61861 	J:155856 	
+MGI:95619	Gabrb1	gamma-aminobutyric acid (GABA) A receptor, subunit beta 1	5		GABA-A receptor activity			ISO	RGD:2649 	J:155856 	
+MGI:95619	Gabrb1	gamma-aminobutyric acid (GABA) A receptor, subunit beta 1	5		GABA-gated chloride ion channel activity			ISO	P18505 	J:164563 	
+MGI:95620	Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	11	contributes_to	GABA receptor activity			ISO	RGD:2650 	J:155856 	
+MGI:95620	Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	11	contributes_to	GABA receptor activity			ISO	P47870 	J:164563 	
+MGI:95620	Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	11		GABA-A receptor activity			ISO	RGD:2650 	J:155856 	
+MGI:95620	Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	11	contributes_to	GABA-gated chloride ion channel activity			ISO	P47870 	J:164563 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-A receptor activity			IMP		J:39801 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-A receptor activity			ISO	RGD:2651 	J:155856 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-A receptor activity			ISO	NM_017065 	J:23743 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-A receptor activity			ISO	P28472 	J:164563 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-gated chloride ion channel activity			IMP		J:39801 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		GABA-gated chloride ion channel activity			ISO	P28472 	J:164563 	
+MGI:95622	Gabrd	gamma-aminobutyric acid (GABA) A receptor, subunit delta	4	contributes_to	GABA-A receptor activity			IBA	PTN000435002 	J:265628 	
+MGI:95622	Gabrd	gamma-aminobutyric acid (GABA) A receptor, subunit delta	4		GABA-A receptor activity			ISO	RGD:61901 	J:155856 	
+MGI:1330235	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	X	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:1330235	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	X		GABA-A receptor activity			ISS		J:62100 	
+MGI:1330235	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	X		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5		GABA-A receptor activity			ISO	RGD:621732 	J:155856 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11	contributes_to	GABA receptor activity			ISO	RGD:61966 	J:155856 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		GABA-A receptor activity			IDA		J:81920 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		GABA-A receptor activity			IMP		J:211247 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		GABA-A receptor activity			ISO	RGD:61966 	J:155856 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11	contributes_to	GABA-gated chloride ion channel activity			ISO	P18507 	J:164563 	
+MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	7	contributes_to	GABA-A receptor activity			IBA	PTN001055383 	J:265628 	
+MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	7		GABA-A receptor activity			ISO	RGD:621735 	J:155856 	
+MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	7		GABA-gated chloride ion channel activity			IBA	PTN000436343 	J:265628 	
+MGI:2387597	Gabrp	gamma-aminobutyric acid (GABA) A receptor, pi	11	contributes_to	GABA-A receptor activity			IBA	PTN000435002 	J:265628 	
+MGI:2387597	Gabrp	gamma-aminobutyric acid (GABA) A receptor, pi	11	contributes_to	GABA-A receptor activity			ISO	RGD:620532 	J:155856 	
+MGI:1888498	Gabrq	gamma-aminobutyric acid (GABA) A receptor, subunit theta	X		GABA-A receptor activity			ISS		J:62100 	
+MGI:95625	Gabrr1	gamma-aminobutyric acid (GABA) C receptor, subunit rho 1	4		GABA receptor activity			ISO	RGD:61900 	J:155856 	
+MGI:95625	Gabrr1	gamma-aminobutyric acid (GABA) C receptor, subunit rho 1	4	contributes_to	GABA-A receptor activity			IBA	PTN000435002 	J:265628 	
+MGI:95626	Gabrr2	gamma-aminobutyric acid (GABA) C receptor, subunit rho 2	4	contributes_to	GABA-A receptor activity			IBA	PTN000435002 	J:265628 	
+MGI:95626	Gabrr2	gamma-aminobutyric acid (GABA) C receptor, subunit rho 2	4		GABA-A receptor activity			IMP	MGI:2446461 	J:76682 	
+MGI:95626	Gabrr2	gamma-aminobutyric acid (GABA) C receptor, subunit rho 2	4		GABA-A receptor activity			ISO	RGD:61902 	J:155856 	
+MGI:3588203	Gabrr3	gamma-aminobutyric acid (GABA) receptor, rho 3	16	contributes_to	GABA-A receptor activity			IBA	PTN000435002 	J:265628 	
+MGI:2653880	Gpr156	G protein-coupled receptor 156	16		G protein-coupled GABA receptor activity			IBA	PTN000054983 	J:265628 	
+

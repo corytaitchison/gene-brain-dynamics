@@ -1,0 +1,9 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:96062	Hdc	histidine decarboxylase	2		histamine biosynthetic process			IMP	MGI:2182618 	J:70702 	
+MGI:96062	Hdc	histidine decarboxylase	2		histamine biosynthetic process			ISO	P19113 	J:164563 	
+MGI:96062	Hdc	histidine decarboxylase	2		histamine metabolic process			ISO	RGD:2790 	J:155856 	
+MGI:2153181	Hnmt	histamine N-methyltransferase	2		histamine catabolic process			ISO	P50135 	J:164563 	
+MGI:1858200	Prg3	proteoglycan 3	2		histamine biosynthetic process			ISO	Q9Y2Y8 	J:164563 	
+MGI:98823	Trh	thyrotropin releasing hormone	6		histamine metabolic process			IBA	PTN001048877 	J:265628 	
+MGI:98823	Trh	thyrotropin releasing hormone	6		histamine metabolic process			ISO	RGD:3903 	J:155856 	
+

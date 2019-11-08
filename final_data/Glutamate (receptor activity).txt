@@ -1,0 +1,176 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		AMPA glutamate receptor activity			IBA	PTN000438080 	J:265628 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		AMPA glutamate receptor activity			ISO	RGD:621531 	J:155856 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		AMPA glutamate receptor activity			ISO	P42261 	J:164563 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		ionotropic glutamate receptor activity			ISO	RGD:621531 	J:155856 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		AMPA glutamate receptor activity			IBA	PTN000438080 	J:265628 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		AMPA glutamate receptor activity			ISO	RGD:61862 	J:155856 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		ionotropic glutamate receptor activity			IDA		J:87180 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		ionotropic glutamate receptor activity			ISO	RGD:61862 	J:155856 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		ionotropic glutamate receptor activity			ISO	P42262 	J:164563 	
+MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	3		kainate selective glutamate receptor activity			ISO	RGD:61862 	J:155856 	
+MGI:95810	Gria3	glutamate receptor, ionotropic, AMPA3 (alpha 3)	X		AMPA glutamate receptor activity			IBA	PTN000438080 	J:265628 	
+MGI:95810	Gria3	glutamate receptor, ionotropic, AMPA3 (alpha 3)	X		AMPA glutamate receptor activity			ISO	RGD:70958 	J:155856 	
+MGI:95810	Gria3	glutamate receptor, ionotropic, AMPA3 (alpha 3)	X		AMPA glutamate receptor activity			ISO	P42263 	J:164563 	
+MGI:95810	Gria3	glutamate receptor, ionotropic, AMPA3 (alpha 3)	X		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95810	Gria3	glutamate receptor, ionotropic, AMPA3 (alpha 3)	X		ionotropic glutamate receptor activity			ISO	RGD:70958 	J:155856 	
+MGI:95811	Gria4	glutamate receptor, ionotropic, AMPA4 (alpha 4)	9		AMPA glutamate receptor activity			IBA	PTN000438080 	J:265628 	
+MGI:95811	Gria4	glutamate receptor, ionotropic, AMPA4 (alpha 4)	9		AMPA glutamate receptor activity			ISO	RGD:61863 	J:155856 	
+MGI:95811	Gria4	glutamate receptor, ionotropic, AMPA4 (alpha 4)	9		AMPA glutamate receptor activity			ISO	P48058 	J:164563 	
+MGI:95811	Gria4	glutamate receptor, ionotropic, AMPA4 (alpha 4)	9		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95811	Gria4	glutamate receptor, ionotropic, AMPA4 (alpha 4)	9		ionotropic glutamate receptor activity			ISO	RGD:61863 	J:155856 	
+MGI:95812	Grid1	glutamate receptor, ionotropic, delta 1	14		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95812	Grid1	glutamate receptor, ionotropic, delta 1	14		ionotropic glutamate receptor activity			IEA	IPR001320 IPR019594 	J:72247 	
+MGI:95813	Grid2	glutamate receptor, ionotropic, delta 2	6		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95813	Grid2	glutamate receptor, ionotropic, delta 2	6		ionotropic glutamate receptor activity			IEA	IPR001320 IPR019594 	J:72247 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		ionotropic glutamate receptor activity			ISO	RGD:2732 	J:155856 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity			IBA	PTN001826307 	J:265628 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity	happens in hippocampus CA1		IDA		J:109768 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity	happens in hippocampus,happens in CNS neuron (sensu Vertebrata)		IDA		J:123244 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity	happens in accumbens nucleus,happens in CNS neuron (sensu Vertebrata)		IGI	MGI:95815 	J:97340 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity	happens in dorsal root ganglion,happens in neuron		IMP	MGI:2176347 	J:79143 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity	happens in hippocampus CA3,happens in interneuron		IMP	MGI:2176347 	J:96594 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity			ISO	RGD:2732 	J:155856 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		kainate selective glutamate receptor activity			ISO	P39086 	J:164563 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		glutamate receptor activity			ISO	RGD:2733 	J:155856 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		ionotropic glutamate receptor activity			IMP		J:114811 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			IBA	PTN001826307 	J:265628 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			IDA		J:696 J:78109 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in hippocampus CA1		IDA		J:109768 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in accumbens nucleus,happens in CNS neuron (sensu Vertebrata)		IGI	MGI:95814 	J:97340 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			IGI	MGI:95818 	J:696 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in spinal cord dorsal horn,happens in neuron		IMP		J:79143 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			IMP	MGI:1857979 	J:79143 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in corpus striatum,happens in GABAergic neuron		IMP	MGI:1857979 	J:60965 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in hippocampus CA1,happens in pyramidal neuron		IMP	MGI:1857979 	J:52041 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in hippocampus CA3		IMP	MGI:1857979 	J:96594 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in hippocampus CA3,happens in CNS neuron (sensu Vertebrata)		IMP	MGI:1857979 	J:46932 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity	happens in accumbens nucleus,happens in CNS neuron (sensu Vertebrata)		IMP	MGI:1857979 	J:97340 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			ISO	RGD:2733 	J:155856 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		kainate selective glutamate receptor activity			ISO	Q13002 	J:164563 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		adenylate cyclase inhibiting G protein-coupled glutamate receptor activity			ISO	Q13003 	J:164563 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		glutamate receptor activity			ISO	RGD:71027 	J:155856 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		ionotropic glutamate receptor activity			ISO	RGD:71027 	J:155856 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		ionotropic glutamate receptor activity			ISO	P42264 	J:73065 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		ionotropic glutamate receptor activity			ISO	Q13003 	J:73065 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		kainate selective glutamate receptor activity			IBA	PTN001826307 	J:265628 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		kainate selective glutamate receptor activity			ISO	Q13003 	J:164563 	
+MGI:95817	Grik4	glutamate receptor, ionotropic, kainate 4	9		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95817	Grik4	glutamate receptor, ionotropic, kainate 4	9		ionotropic glutamate receptor activity			IEA	IPR001320 IPR019594 	J:72247 	
+MGI:95817	Grik4	glutamate receptor, ionotropic, kainate 4	9		kainate selective glutamate receptor activity			IBA	PTN001826307 	J:265628 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		glutamate receptor activity			ISO	RGD:2735 	J:155856 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		ionotropic glutamate receptor activity			IEA	IPR001320 IPR019594 	J:72247 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		kainate selective glutamate receptor activity			IBA	PTN001826307 	J:265628 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		kainate selective glutamate receptor activity			IGI	MGI:95815 	J:696 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		kainate selective glutamate receptor activity			ISO	RGD:2735 	J:155856 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		kainate selective glutamate receptor activity			ISO	Q16478 	J:164563 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		glutamate-gated calcium ion channel activity			ISO	Q05586 	J:164563 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		ionotropic glutamate receptor activity			ISO	RGD:2736 	J:155856 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IBA	PTN001451205 	J:265628 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IDA		J:1333 J:3203 J:17924 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity		PR:P35438-1	IDA		J:2285 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IGI	MGI:95820 	J:1333 J:17924 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IGI	MGI:95821 	J:1333 J:21285 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IGI	MGI:95822 	J:1333 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			IMP		J:64064 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in barrel cortex,happens in neuron		IMP	MGI:1928270 	J:98614 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in trigeminal nucleus		IMP	MGI:1928270 	J:17384 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in spinal cord dorsal horn,happens in neuron		IMP	MGI:1928279 	J:84354 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in hippocampus CA3,happens in pyramidal neuron		IMP	MGI:1928279 MGI:2387441 	J:77718 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in cerebellum,happens in granule cell|happens in hippocampus,happens in pyramidal neuron		IMP	MGI:1928327 	J:66345 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity	happens in dentate gyrus,happens in granule cell		IMP	MGI:2448952 MGI:3611337 	J:119834 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			ISO	RGD:2736 	J:155856 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			ISO	P35439 	J:20537 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		NMDA glutamate receptor activity			ISO	Q05586 	J:164563 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2	contributes_to	NMDA glutamate receptor activity			ISO	Q05586 	J:164563 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		glutamate-gated calcium ion channel activity			ISO	Q12879 	J:164563 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		ionotropic glutamate receptor activity			ISO	RGD:2737 	J:155856 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16	contributes_to	ionotropic glutamate receptor activity			ISO	RGD:2737 	J:155856 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity			IBA	PTN000751216 	J:265628 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity			IGI	MGI:95819 	J:1333 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16	contributes_to	NMDA glutamate receptor activity			IGI	MGI:95819 	J:17924 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16	contributes_to	NMDA glutamate receptor activity			IGI	RGD:2736 	J:20537 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity			IMP	MGI:1928285 	J:22295 J:78374 J:89820 J:109557 J:110920 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity	happens in cerebellum internal granule cell layer,happens in granule cell		IMP	MGI:1928285 	J:34076 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity			IMP	MGI:1928506 	J:46495 J:103735 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		NMDA glutamate receptor activity			ISO	RGD:2737 	J:155856 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		glutamate-gated calcium ion channel activity			ISO	Q13224 	J:164563 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		ionotropic glutamate receptor activity			ISO	RGD:2738 	J:155856 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IBA	PTN000751216 	J:265628 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IGI	MGI:95819 	J:1333 J:21285 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IGI	MGI:95823 	J:84361 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IMP		J:84361 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IMP	MGI:1928293 	J:45446 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			IMP	MGI:1928295 	J:102147 J:103962 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			ISO	RGD:2738 	J:155856 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		NMDA glutamate receptor activity			ISO	Q13224 	J:164563 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		glutamate-gated calcium ion channel activity			ISO	Q14957 	J:164563 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		ionotropic glutamate receptor activity			ISO	RGD:2739 	J:155856 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity			IBA	PTN000751216 	J:265628 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity			IGI	MGI:95819 	J:1333 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11	contributes_to	NMDA glutamate receptor activity			IGI	RGD:2736 	J:20537 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity	happens in cerebellum granule cell layer,happens in granule cell		IMP	MGI:1928301 	J:34597 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity			IMP	MGI:1928510 	J:46495 J:103735 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity			ISO	RGD:2739 	J:155856 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		NMDA glutamate receptor activity			ISO	Q14957 	J:164563 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		glutamate-gated calcium ion channel activity			ISO	O15399 	J:164563 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		ionotropic glutamate receptor activity			ISO	RGD:2740 	J:155856 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		ionotropic glutamate receptor activity			ISO	O15399 	J:164563 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		NMDA glutamate receptor activity			IBA	PTN000751216 	J:265628 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		NMDA glutamate receptor activity			IDA		J:3203 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		NMDA glutamate receptor activity			IMP	MGI:1928298 	J:84361 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		NMDA glutamate receptor activity			ISO	RGD:2740 	J:155856 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7		NMDA glutamate receptor activity			ISO	O15399 	J:164563 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		ionotropic glutamate receptor activity			ISO	RGD:621704 	J:155856 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		NMDA glutamate receptor activity			IMP	MGI:2387963 	J:85752 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		NMDA glutamate receptor activity			IPI	P35438 	J:66481 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		NMDA glutamate receptor activity			ISO	RGD:621704 	J:155856 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4		NMDA glutamate receptor activity			ISO	Q8TCU5 	J:164563 	
+MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	4	contributes_to	NMDA glutamate receptor activity			ISO	RGD:621704 	J:155856 	
+MGI:2150393	Grin3b	glutamate receptor, ionotropic, NMDA3B	10		glutamate receptor activity			IBA	PTN001826301 	J:265628 	
+MGI:2150393	Grin3b	glutamate receptor, ionotropic, NMDA3B	10		ionotropic glutamate receptor activity			IEA	IPR001320 IPR019594 	J:72247 	
+MGI:1351338	Grm1	glutamate receptor, metabotropic 1	10		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351338	Grm1	glutamate receptor, metabotropic 1	10		glutamate receptor activity			ISO	Q13255 	J:164563 	
+MGI:1351338	Grm1	glutamate receptor, metabotropic 1	10		PLC activating G protein-coupled glutamate receptor activity			TAS		J:41096 	
+MGI:1351339	Grm2	glutamate receptor, metabotropic 2	9		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351339	Grm2	glutamate receptor, metabotropic 2	9		group II metabotropic glutamate receptor activity			IBA	PTN002373515 	J:265628 	
+MGI:1351339	Grm2	glutamate receptor, metabotropic 2	9		group II metabotropic glutamate receptor activity			IDA		J:21416 	
+MGI:1351339	Grm2	glutamate receptor, metabotropic 2	9		group II metabotropic glutamate receptor activity			ISO	RGD:2743 	J:155856 	
+MGI:1351340	Grm3	glutamate receptor, metabotropic 3	5		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351340	Grm3	glutamate receptor, metabotropic 3	5		group II metabotropic glutamate receptor activity			IBA	PTN002373515 	J:265628 	
+MGI:1351340	Grm3	glutamate receptor, metabotropic 3	5		group II metabotropic glutamate receptor activity			IDA		J:21416 	
+MGI:1351340	Grm3	glutamate receptor, metabotropic 3	5		group II metabotropic glutamate receptor activity			ISO	RGD:2744 	J:155856 	
+MGI:1351341	Grm4	glutamate receptor, metabotropic 4	17		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351341	Grm4	glutamate receptor, metabotropic 4	17		glutamate receptor activity			ISO	Q14833 	J:164563 	
+MGI:1351341	Grm4	glutamate receptor, metabotropic 4	17		group III metabotropic glutamate receptor activity			TAS		J:35793 	
+MGI:1351342	Grm5	glutamate receptor, metabotropic 5	7		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351342	Grm5	glutamate receptor, metabotropic 5	7		glutamate receptor activity			ISO	RGD:2746 	J:155856 	
+MGI:1351342	Grm5	glutamate receptor, metabotropic 5	7		glutamate receptor activity			ISO	P41594 	J:164563 	
+MGI:1351342	Grm5	glutamate receptor, metabotropic 5	7		PLC activating G protein-coupled glutamate receptor activity			TAS		J:41096 	
+MGI:1351343	Grm6	glutamate receptor, metabotropic 6	11		adenylate cyclase inhibiting G protein-coupled glutamate receptor activity			ISO	RGD:2747 	J:155856 	
+MGI:1351343	Grm6	glutamate receptor, metabotropic 6	11		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351343	Grm6	glutamate receptor, metabotropic 6	11		glutamate receptor activity			ISO	O15303 	J:164563 	
+MGI:1351343	Grm6	glutamate receptor, metabotropic 6	11		group III metabotropic glutamate receptor activity			TAS		J:48639 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		adenylate cyclase inhibiting G protein-coupled glutamate receptor activity			ISO	RGD:619857 	J:155856 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		glutamate receptor activity			ISO	Q14831 	J:164563 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		group III metabotropic glutamate receptor activity			ISO	RGD:619857 	J:155856 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		group III metabotropic glutamate receptor activity			ISO	Q14831 	J:164563 	
+MGI:1351344	Grm7	glutamate receptor, metabotropic 7	6		group III metabotropic glutamate receptor activity			TAS		J:52411 	
+MGI:1351345	Grm8	glutamate receptor, metabotropic 8	6		glutamate receptor activity			IBA	PTN001173581 	J:265628 	
+MGI:1351345	Grm8	glutamate receptor, metabotropic 8	6		glutamate receptor activity			ISO	O00222 	J:164563 	
+MGI:1351345	Grm8	glutamate receptor, metabotropic 8	6		group III metabotropic glutamate receptor activity			IDA		J:24532 	
+MGI:1351345	Grm8	glutamate receptor, metabotropic 8	6		group III metabotropic glutamate receptor activity			ISO	RGD:619858 	J:155856 	
+MGI:104908	Ptk2b	PTK2 protein tyrosine kinase 2 beta	14	contributes_to	NMDA glutamate receptor activity			ISO	RGD:628758 	J:155856 	
+
